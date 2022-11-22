@@ -28,7 +28,7 @@
 
 现正于 Codecademy 学习 Java & 制作 MC 整合包 Neverise & 摸鱼。
 
-喜欢说土味情话。
+喜欢掰土味情话。
 
 最喜欢的作家是 Paulo Coelho。
 
