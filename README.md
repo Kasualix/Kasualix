@@ -26,7 +26,7 @@
 
 玩 MC 不能不装 Modern UI，不然会死掉。
 
-现正于 Codecademy 学习 Java & 制作 MC 整合包 Neverise & 摸鱼。
+现正于 Codecademy 学习 Java。
 
 喜欢掰土味情话。
 
