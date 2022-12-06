@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatastropheChou)](https://github.com/anuraghazra/github-readme-stats)
+[![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatastropheChou&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasualix&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ——————————————
 
