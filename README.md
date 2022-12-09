@@ -32,7 +32,7 @@
 
 最喜欢的作家是 Paulo Coelho。
 
-最喜欢的 B 站 UP 主是 Tankofpacer。
+最喜欢的 B 站 UP 主是 Tankofpacer（就是头像的龙龙啦）。
 
 最爱的人是你。
 
