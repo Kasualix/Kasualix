@@ -22,7 +22,7 @@
 
 在 1.16.5 Forge 写魔改，主要用 CrT，不常用 kjs，喜欢用事件整花活。
 
-也汉化自己喜欢的模组，有很多，比如 Regeneration、Cataclysm（嗯，我的 Github Repo 这么多，大都不过贡献一个 zh_cn.json 罢了）。
+也汉化自己喜欢的模组，有很多，比如 Regeneration、Cataclysm（嗯，我的 Github Repo 这么多，大都不过贡献一个 zh_cn.json 罢了）（常为往百科搬模组取中文名就随手去投个官中）。
 
 玩 MC 不能不装 Modern UI，不然会死掉。
 
