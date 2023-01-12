@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-[![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasualix&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-——————————————
-
 我是狂想ThePotato，你可以叫我土豆。
 
 入坑 MC 的日子：2020 年 1 月 1 日凌晨 1 点，到现在玩了 2 年多，接近 3 年。
