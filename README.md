@@ -20,8 +20,6 @@
 
 玩 MC 不能不装 Modern UI，不然会死掉。
 
-现正于 Codecademy 学习 Java。
-
 喜欢掰土味情话。
 
 最喜欢的作家是 Paulo Coelho。
