@@ -18,6 +18,8 @@
 
 也汉化自己喜欢的模组，有很多，比如 Regeneration、Cataclysm（嗯，我的 Github Repo 这么多，大都不过贡献一个 zh_cn.json 罢了）（常为往百科搬模组取中文名就随手去投个官中）。
 
+很想要一个 art slave。
+
 玩 MC 不能不装 Modern UI，不然会死掉。
 
 喜欢掰土味情话。
