@@ -14,6 +14,8 @@ ____
 
 很想要一个 art slave。
 
+大坑一般都放在 [Team Potato](https://github.com/MCTeamPotato) 那边。
+
 玩 MC 不能不装 Modern UI，不然会死掉。
 
 喜欢掰土味情话。
@@ -23,8 +25,10 @@ ____
 最喜欢的 B 站 UP 主是 Tankofpacer（就是头像的龙龙啦）。
 
 最爱的人是你。
-
-
 ____
 
 小贴士：不要做整合包，会变得不幸。
+
+____
+
+[![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
