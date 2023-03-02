@@ -14,7 +14,7 @@ ____
 
 很想要一个 art slave。
 
-大坑一般都放在 [Team Potato](https://github.com/MCTeamPotato) 那边。
+大坑一般都放在 [Team Potato](https://github.com/orgs/MCTeamPotato/repositories) 那边。
 
 玩 MC 不能不装 Modern UI，不然会死掉。
 
