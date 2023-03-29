@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[CurseForge](https://www.curseforge.com/members/potato_____boy/projects)丨MC百科（[作者页](https://www.mcmod.cn/author/25929.html)丨[个人主页](https://center.mcmod.cn/257643/)）丨[Bilibili](https://space.bilibili.com/387636714)
+[CurseForge](https://www.curseforge.com/members/potato_____boy/projects)丨MC百科（[作者页](https://www.mcmod.cn/author/25929.html)丨[个人主页](https://center.mcmod.cn/257643/)）丨[Bilibili](https://space.bilibili.com/387636714) 丨 [Sponsor](https://afdian.net/a/callmekall)
 
 ____
 
