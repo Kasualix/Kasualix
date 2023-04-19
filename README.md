@@ -51,10 +51,17 @@ _Favorite Bilibili UP: Tankofpacer (Yeah he is a dragon, my profile picture)._
 _Favorite people: YOU._
 ____
 
-小贴士：不要做整合包，会变得不幸。
+你知道吗：
 
-_NOTE: Don't make MC modpacks, or you will be unfortunate._
+_NOTE:_
 
+不要做整合包，会变得不幸。
+
+_Don't make MC modpacks, or you will be unfortunate._
+
+很多模组作者写的都是大粪。
+
+_A lot of what mod authors write is shit._
 ____
 
 [![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
