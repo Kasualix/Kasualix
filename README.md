@@ -1,5 +1,6 @@
 [![Kasualix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
 
+This account is mainly for contributing to other projects, but you can see my own projects in MCTeamPotato.
 
 Some important hints:
 
