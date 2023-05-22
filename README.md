@@ -8,7 +8,7 @@
 
 **Some Important Tips:**
 
-1. What many MC mod authors write is shit. (So many MC modpacks are equal to shit mountains)
+1. What many MC mod developers write is shit. (So many MC modpacks are equal to shit mountains)
 2. Don't make MC modpacks, or you'll experience suffering.
 3. To live, is to experience suffering.
 4. If you think the 2. is conflict with  the 3., you're too young, and need to see Violet Evergarden.
