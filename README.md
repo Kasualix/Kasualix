@@ -10,6 +10,7 @@
 **Some Important Tips:**
 
 1. What many MC mod developers write is shit. (So many MC modpacks are equal to shit mountains.)
-2. Don't make MC modpacks, or you'll experience suffering.
-3. To live, is to experience suffering.
-4. If you think the 2 is conflict with  the 3, you're too young, and need to grow up and see _Violet Evergarden by Kyoto Animation_.
+2. it doesn't help that a large portion of the community are children.
+3. Don't make MC modpacks, or you'll experience suffering.
+4. To live, is to experience suffering.
+5. If you think the 2 is conflict with  the 3, you're too young, and need to grow up and see _Violet Evergarden by Kyoto Animation_.
