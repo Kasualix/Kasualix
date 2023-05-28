@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasualix)](https://github.com/anuraghazra/github-readme-stats)
 
 **Self Intro:**
-1. A Chinese, HZNU student, mod developer & translator, and a modpacker.
+1. A Chinese, HZNU student, mod developer & translator, and modpacker.
 2. This GitHub account is mainly for contributing to other projects, but you can see my own projects at [MCTeamPotato](https://github.com/MCTeamPotato).
 3. My Discord: Kasualix#5415.
 4. Profile picture: my love, a dragon, [Tankofpacer](https://b23.tv/260c025).
