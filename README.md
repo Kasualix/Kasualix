@@ -11,6 +11,7 @@
 
 1. What many MC mod developers write is shit. (So many MC modpacks are equal to shit mountains.)
 2. it doesn't help that a large portion of the community are children.
-3. Don't make MC modpacks, or you'll experience suffering.
-4. To live, is to experience suffering.
-5. If you think the 3 is conflict with  the 4, you're too young, and need to grow up and see _Violet Evergarden by Kyoto Animation_.
+3. Every community is toxic.
+4. Don't make MC modpacks, or you'll experience suffering.
+5. To live, is to experience suffering.
+6. If you think the 4 is conflict with  the 5, you're too young, and need to grow up and see _Violet Evergarden by Kyoto Animation_.
