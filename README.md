@@ -25,3 +25,4 @@ ____
 4. Don't make MC modpacks, or you'll experience suffering.
 5. To live, is to experience suffering.
 6. If you think the 4 is conflict with  the 5, you're too young, and need to grow up and see _Violet Evergarden by Kyoto Animation_.
+7. Ignorance, the root and stem of all evil. -- Plato
