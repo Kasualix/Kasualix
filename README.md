@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kasualix&theme=radical" alt="Kasualix's GitHub stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasualix" alt="Top Langs">
-  </a>
-</p>
-
-____
 **Self Intro:**
 1. A Chinese, mod developer & translator, modpacker, and selective blindness patient.
 2. This GitHub account is now only mainly for contributing to other projects, but you can see my own projects mainly at [MCTeamPotato](https://github.com/MCTeamPotato).
