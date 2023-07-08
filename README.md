@@ -1,5 +1,5 @@
 **Self Intro:**
-1. A Chinese, mod developer & translator, modpacker, and intermittent selective blindness patient.
+1. A Chinese, mod developer & translator, modpacker, ~and intermittent selective blindness patient~.
 2. This GitHub account is now only mainly for contributing to other projects, but you can see my own projects mainly at [MCTeamPotato](https://github.com/MCTeamPotato).
 3. Profile picture: my love, a dragon, [Tankofpacer](https://b23.tv/260c025).
 
