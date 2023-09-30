@@ -3,3 +3,5 @@ My CurseForge projects: https://legacy.curseforge.com/members/potato_____boy/pro
 Ko-fi donation: https://ko-fi.com/kasualix
 
 Contact me on Discord: Kasualix
+
+Join TeamPotato Server: https://discord.gg/ZywV7DVWhW
