@@ -4,4 +4,4 @@ Ko-fi donation: https://ko-fi.com/kasualix
 
 Contact me on Discord: Kasualix
 
-Join TeamPotato Server: https://discord.gg/ZywV7DVWhW
+Join TeamPotato Server: https://discord.gg/g8q3UHTpCP
