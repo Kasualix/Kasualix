@@ -1,7 +1,4 @@
-My CurseForge projects: https://legacy.curseforge.com/members/potato_____boy/projects
+# Related Links
+[CurseForge](https://legacy.curseforge.com/members/potato_____boy/projects) | [Ko-fi](https://ko-fi.com/kasualix) | [TeamPotato Discord](https://discord.gg/g8q3UHTpCP)
 
-Ko-fi donation: https://ko-fi.com/kasualix
-
-Contact me on Discord: Kasualix
-
-Join TeamPotato Server: https://discord.gg/g8q3UHTpCP
+Contact me on Discord (username): Kasualix
