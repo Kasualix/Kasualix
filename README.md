@@ -1,2 +1,2 @@
-- Haven't done anything Minecraft-related in 2,000 years.
-- Won't be doing anything Minecraft-related in 2,000 years.
+- Make money in my sleep
+- Busy with https://aoqi.100bt.com
