@@ -1,2 +1,3 @@
 - Make money in my sleep
 - Busy with https://aoqi.100bt.com
+- Almost completely give up mods' maintenance
