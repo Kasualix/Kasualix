@@ -1,3 +1,3 @@
 - Make money in my sleep
-- Busy with https://aoqi.100bt.com
+- Busy with https://hyrz.qq.com/main.shtml
 - Almost completely give up mods' maintenance
