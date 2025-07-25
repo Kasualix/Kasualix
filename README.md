@@ -1,3 +1,2 @@
-- Make money in my sleep
+- Chinese
 - Busy with https://hyrz.qq.com/main.shtml
-- Almost completely give up mods' maintenance
