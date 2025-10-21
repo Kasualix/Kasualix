@@ -1,2 +1,3 @@
 - Chinese
 - Busy with https://hyrz.qq.com/main.shtml
+- Love Naruto ❤❤❤❤❤❤
